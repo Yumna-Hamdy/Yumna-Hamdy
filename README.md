@@ -86,7 +86,7 @@ Connect with me
 
 
 </br>
-[linkedin]: https://www.linkedin.com/in/yumna-hamdy-50b20b200
-[whatsapp]: https://wa.me/201099895374
 
+[linkedin]:https://www.linkedin.com/in/yumna-hamdy-50b20b200
+[whatsapp]: https://wa.me/201099895374
 
