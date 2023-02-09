@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+[![](https://komarev.com/ghpvc/?username=Yumna-Hamdy&color=blue&label=Profile%20Views)](https://github.com/Yumna-Hamdy/Yumna-Hamdy)
+[![](https://img.shields.io/github/followers/Yumna-Hamdy?label=GitHub%20Followers)](https://github.com/Yumna-Hamdy/Yumna-Hamdy)
+  
 **Yumna-Hamdy/Yumna-Hamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
