@@ -77,6 +77,7 @@ GitHub stats
 | 4 | [ML_Tasks](https://github.com/Yumna-Hamdy/Machine-Learnings) |
 | 5 | [Flickr like-app backend](https://github.com/Yumna-Hamdy/software-project/tree/main/flickr-backend) |
 | 6 | [Algorithms Tool Box Assignments](https://github.com/Yumna-Hamdy/Algorithms-tool-box) |
+| 7 | [MRI_Planes_Viewer](https://github.com/Yumna-Hamdy/MRI_Planes_Viewer)) |
 
 
 Connect with me 
