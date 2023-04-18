@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### Hello there, I'm Yumna Hamdy 🤖 
+  ### Hello there, I'm Yumna Hamdy 
   
 
   [![](https://komarev.com/ghpvc/?username=Yumna-Hamdy&color=blue&label=Profile%20Views)](https://github.com/Yumna-Hamdy/Yumna-Hamdy)
@@ -71,8 +71,8 @@ GitHub stats
 --------
 | Number | Repo Link  |
 | :-----: | :-: |
-| 1 | [A movie-rating application using Spring Boot](https://github.com/Yumna-Hamdy/BankMisrFinalProject) |
-| 2 | [DL_Project](https://github.com/Yumna-Hamdy/Deep-Learning-Detecring-Melanoma) |
+| 1 | [Bank_Misr_Final_Project](https://github.com/Yumna-Hamdy/BankMisrFinalProject) |
+| 2 | [Deep_Learning_Project](https://github.com/Yumna-Hamdy/Deep-Learning-Detecring-Melanoma) |
 | 3 | [Image processing basics](https://github.com/Yumna-Hamdy/imagesTasks) |
 | 4 | [ML_Tasks](https://github.com/Yumna-Hamdy/Machine-Learnings) |
 | 5 | [Flickr like-app backend](https://github.com/Yumna-Hamdy/software-project/tree/main/flickr-backend) |
